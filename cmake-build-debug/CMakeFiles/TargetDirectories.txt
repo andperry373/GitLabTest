@@ -1,0 +1,3 @@
+C:/Users/andre/CLionProjects/GitLabTest/cmake-build-debug/CMakeFiles/GitLabTest.dir
+C:/Users/andre/CLionProjects/GitLabTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/andre/CLionProjects/GitLabTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
